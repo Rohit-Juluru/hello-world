@@ -3,4 +3,4 @@ hello-world
 
 Getting Started
 
-Hi
+Hello people!
